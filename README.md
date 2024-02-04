@@ -14,4 +14,5 @@ As the ML Developer assigned to the HR Department, you have been asked to create
   Handle the left Class Imbalance using the SMOTE technique. 
   Perform k-fold cross-validation model training and evaluate performance.  
   Identify the best model and justify the evaluation metrics used.  
-  Suggest various retention strategies for targeted employees. 
+  Suggest various retention strategies for targeted employees.
+  
